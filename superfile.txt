@@ -1,1 +1,1 @@
-There is a bg in this file.
+There is a bug in this file.
